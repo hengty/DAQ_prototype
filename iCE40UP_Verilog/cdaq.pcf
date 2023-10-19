@@ -1,0 +1,25 @@
+###IOSet List
+set_io ICE_CLK 35
+#set_io LED_BLUE 39
+#set_io LED_GREEN 40
+#set_io LED_RED 41
+set_io disc_trig 4
+set_io clk_from_adc 20
+set_io adc1[11] 28
+set_io adc1[10] 38
+set_io adc1[9] 42
+set_io adc1[8] 36
+set_io adc1[7] 43
+set_io adc1[6] 34
+set_io adc1[5] 31
+set_io adc1[4] 32
+set_io adc1[3] 27
+set_io adc1[2] 26
+set_io adc1[1] 25
+set_io adc1[0] 23
+set_io miso 47
+
+set_io resetn 45
+set_io trig_out 3
+set_io clk_to_adc 44
+
